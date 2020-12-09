@@ -1,0 +1,2 @@
+[2020-11-05T21:22:31.662057+00:00] request.INFO: Matched route "task_crte". {"route":"task_crte","route_parameters":{"_route":"task_crte","_controller":"App\\Controller\\logController::index","name":"grisha"},"request_uri":"http://localhost:8000/logger/grisha","method":"GET"} []
+[2020-11-05T21:22:31.670042+00:00] app.INFO: Saying hello to Viktoria! [] []
